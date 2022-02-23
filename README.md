@@ -1,1 +1,1 @@
-# flutter-steam-news-app
+# Flutter Steam News App + Vatupassi
